@@ -3,7 +3,8 @@ Mar'atul Aufiya_SSI202303431
 Aplikasi CRUD Data Hero Mobile Legend
 📌 Project ini dibuat untuk memenuhi tugas *UAS Pemrograman Berorientasi Objek*  
 🧑‍💻 Dibuat menggunakan *Java Swing* dan *MySQL* (via Laragon)
-📂 Struktur Folder Ada
+
+📂 Struktur Folder
 - App.java,
 - config/ -> Koneksi ke database,
 - controller/ -> Logika dan perintah CRUD,
